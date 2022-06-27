@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1mbw3zitlupeTPxDdVzZ6+IQxcyU3Bi6gSNi9W/mITBPRCKBRERG+fz7mX+Tg8xoatgSQxaWlrLgAarxZ9UPcw==",
+  "success": true,
+  "projectFilePath": "E:\\New folder (2)\\all_project\\C#\\filterCVSocket\\filterCVSocket\\filterCVSocket\\filterCVSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
